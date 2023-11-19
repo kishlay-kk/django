@@ -36,6 +36,7 @@ To contribute to Django:
 
 * Check out https://docs.djangoproject.com/en/dev/internals/contributing/ for
   information about getting involved.
+Try to force Radon
 
 To run Django's test suite:
 
